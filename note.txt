@@ -1,0 +1,34 @@
+# Toan tu cua tuple giong voi toan tu cua chuoi (Hashable)
+# Toan tu cua list GAN giong toan tu cua chuoi (UnHashable)
+# Khi nao nen chon tuple thay cho list:
+    - tuple KHONG cho phep ban sua chua noi dung. list cho phep. => toc do truy xuat nhanh hon, it ton dung luong bo nho.
+    - bao ve du lieu KHONG bi thay doi.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
