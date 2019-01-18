@@ -24,7 +24,7 @@ print('%s %r' %(st, st)) # __STR__ __REPR__
 fl = 3.45463456345
 print('%.2f' %(fl))
 
-# f-string
+# f-string # version >= 3.6
 name = 'Jarvis'
 age = '25'
 print('My name is {name}, I\'m {age} old') # My name is {name}, I'm {age} old

@@ -3,19 +3,18 @@
 # Khi nao nen chon tuple thay cho list:
     - tuple KHONG cho phep ban sua chua noi dung. list cho phep. => toc do truy xuat nhanh hon, it ton dung luong bo nho.
     - bao ve du lieu KHONG bi thay doi.
-    
 
-
-
-
-
-
-
-
-
-
-
-
+# Iteration trong python
+    - Iteration la mot khai niem chung cho viec lay tung phan tu cua mot doi tuong nao do, 
+    bat cu khi nao ban su dung mot vong lap hay ky thuat nao do de co duoc gia tri mot nhom 
+    phan tu thi do chinh la Iteration
+    - Iterable object la mot object co phuong thuc __iter__ tra ve mot Iterator,
+    hoac la mot object co phuong thuc __getitem__ cho phep ban lay bat cu phan tu 
+    nao cua no bang indexing vi du nhu CHUOI, LIST, TUPLE
+    - Iterator object don gian chi la mot doi tuong ma cho phep ta lay tung gia tri mot cua no.
+    Co nghia la ban khong the lay bat ky gia tri nao nhu lam voi Chuoi hay LIST
+    - Cac Iterable object chua phai la Iterator. Khi su dung ham iter se tra ve mot Iterator.
+    Day cyng chinh la cach ma cac vong lap hoat dong.
 
 
 
