@@ -14,7 +14,7 @@
     - Iterator object don gian chi la mot doi tuong ma cho phep ta lay tung gia tri mot cua no.
     Co nghia la ban khong the lay bat ky gia tri nao nhu lam voi Chuoi hay LIST
     - Cac Iterable object chua phai la Iterator. Khi su dung ham iter se tra ve mot Iterator.
-    Day cyng chinh la cach ma cac vong lap hoat dong.
+    Day cung chinh la cach ma cac vong lap hoat dong.
 
 
 
