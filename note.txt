@@ -16,7 +16,8 @@
     - Cac Iterable object chua phai la Iterator. Khi su dung ham iter se tra ve mot Iterator.
     Day cung chinh la cach ma cac vong lap hoat dong.
 
-
+# Function
+    - Default argument trong parameter: 1 unhashable container (LIST, DICT, SET)
 
 
 
